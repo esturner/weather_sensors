@@ -1,0 +1,10 @@
+this file keeps track of items wanting to add. If I remember I will mark
+finished.
+
+12/7/21
+- add digital data read triggger to weather utilities. Use GPIO on pi
+- learn data logging hat functionality and use for photodiodes, and
+weather station sensors.
+
+12/10/21
+- add trigger to soil simple
